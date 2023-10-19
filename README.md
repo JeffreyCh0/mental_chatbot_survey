@@ -6,11 +6,11 @@ This repository contains the resources associated with the EMNLP 2023 paper:
 
 Contents in this repository are:
  - /annotated_papers - Annotated papers' PDF files. 
-   - aaai
-   - acl
-   - acm
-   - ieee
-   - pubmed
+   - /aaai
+   - /acl
+   - /acm
+   - /ieee
+   - /pubmed
  - LICENSE
  - README.md - This file.
  - full_table.csv - Full table contains all selected papers in the final list with attributes.
