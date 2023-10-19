@@ -19,7 +19,7 @@ Contents in this repository are:
 We only share annotated experiment/model papers. Some papers are not included due to copyright restrictions.
 
 
-Below is the description of each attributes in the full_table.csv:
+Below are the descriptions of each attributes in the full_table.csv:
   * _Title_: The title of the selected paper.
   * _Link_: The url of the paper.
   * _File Name_: the corresponding pdf filename of the paper in our repository.
