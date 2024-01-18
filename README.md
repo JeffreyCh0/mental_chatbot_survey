@@ -4,7 +4,7 @@ This repository contains the resources associated with the EMNLP 2023 paper:
 
 > Cho et al. (2023). "An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives".
 
-You can find the paper [HERE](https://arxiv.org/abs/2310.17017).
+You can find the paper [HERE](https://aclanthology.org/2023.emnlp-main.698/).
 
 
 Contents in this repository are:
